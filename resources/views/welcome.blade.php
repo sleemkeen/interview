@@ -86,7 +86,7 @@
                     <a href="/addproduct">Add Product</a>
                     <a href="/adduser">Add User</a>
                     <a href="/addstore">Add Store</a>
-                    <a href="/update">Assign page</a>
+                    <a href="/updatepage">Assign page</a>
                     <a href="/getalluser">Dashboard</a>
                 </div>
             </div>
