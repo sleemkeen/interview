@@ -79,15 +79,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Interview
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="/addproduct">Add Product</a>
+                    <a href="/adduser">Add User</a>
+                    <a href="/addstore">Add Store</a>
+                    <a href="/update">Assign page</a>
+                    <a href="/getalluser">Dashboard</a>
                 </div>
             </div>
         </div>

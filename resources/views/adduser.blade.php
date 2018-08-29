@@ -81,12 +81,16 @@
             <option value="manager">Manager</option>
        
         </select>
+        <br><br>
+
+        <p>Add a store (this is not compulsory)</p>
         <label for="inputPassword" class="sr-only">Store</label>
             <?php foreach ($readstore as $key) { ?>
 
         <label class="checkbox-inline"><input type="checkbox" name="storeid[]" value="{{$key->stid}}">{{$key->storename}}</label>
         <?php } ?>
 
+        <br><br>
         
         <button class="btn btn-lg btn-primary btn-block" type="submit">Submit</button>
 
